@@ -50,5 +50,5 @@
 [pull]
   rebase = false
 [user]
-	email = david.grammatico@gmail.com
-	name = David Grammatico david.lugdunum@gmail.com
+	email = david.lugdunum@gmail.com
+	name = David Grammatico
